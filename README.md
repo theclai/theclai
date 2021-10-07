@@ -104,9 +104,9 @@
 
 <a href="https://www.https://www.linkedin.com/in/faisalrahmanm/"  target="_blank"><img  src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn"></a>
 
-<a  href="https://https://stackoverflow.com/users/1519416/theclai"  target="_blank"><img  src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+<a  href="https://stackoverflow.com/users/1519416/theclai"  target="_blank"><img  src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 
-<a  href="https://https://stackoverflow.com/users/1519416/theclai"  target="_blank"><img  src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+<a  href="https://www.hackerrank.com/Theclai"  target="_blank"><img  src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
 
 <br>
 
