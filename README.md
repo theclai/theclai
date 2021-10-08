@@ -15,7 +15,7 @@
   
 - 🔭 I’m currently working remotely as Lead Backend Engineer
 
-- 👯 A little about myself in tech career: I am a professional with over 15 years of experience, passionate about what I do. I love learning new things as well as sharing what I know!
+- 👯 A little about myself in tech career: I am a professional with over more than 10 years of experience, passionate about what I do. I love learning new things as well as sharing what I know!
 
   
 
@@ -25,7 +25,7 @@
 
 ### Languages
 
-  ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
