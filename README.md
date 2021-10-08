@@ -99,13 +99,13 @@
 
 <br>
 
-<a href="https://www.https://www.linkedin.com/in/faisalrahmanm/"  target="_blank"><img  src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn"></a>
+<a href="https://www.https://www.linkedin.com/in/faisalrahmanm/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn"></a>
 
-<a  href="https://stackoverflow.com/users/1519416/theclai"  target="_blank"><img  src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+<a  href="https://stackoverflow.com/users/1519416/theclai" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow"></a>
 
-<a  href="https://www.hackerrank.com/Theclai"  target="_blank"><img  src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+<a  href="https://www.hackerrank.com/Theclai" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank"></a>
   
-<a  href="https://leetcode.com/theclai/" target="_blank"><img  src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>
+<a  href="https://leetcode.com/theclai/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode"></a>
 <br>
 
 <!--
