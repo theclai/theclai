@@ -105,7 +105,7 @@
 
 <a  href="https://www.hackerrank.com/Theclai"  target="_blank"><img  src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
   
-<a  href="https://leetcode.com/theclai/"><img  src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>
+<a  href="https://leetcode.com/theclai/" target="_blank"><img  src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>
 <br>
 
 <!--
