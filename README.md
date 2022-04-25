@@ -99,7 +99,7 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/faisalrahmanm/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn"></a>
+<!-- <a href="https://www.linkedin.com/in/faisalrahmanm/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn"></a> -->
 
 <a  href="https://stackoverflow.com/users/1519416/theclai" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow"></a>
 
