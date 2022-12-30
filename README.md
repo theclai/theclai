@@ -8,7 +8,7 @@
 
 </div>
 
-  
+  <iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/74790084/activity-summary/a3b1094c960f4d7e0707a007bf9b7a95ade49707'></iframe>
 
 ![My status](https://github-readme-stats.vercel.app/api?username=theclai&show_icons=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=161b22)
 
